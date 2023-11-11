@@ -92,6 +92,7 @@ Wracker is a cutting-edge mobile application designed to revolutionize your gym 
    - Access the Social Feed from the home screen.
    - Like, comment, or share friends' achievements.
 
-**5. Conclusion:**
-
-LiftTrack Pro is not just an app; it's your virtual fitness companion, dedicated to enhancing your gym experience and helping you achieve your fitness goals through data-driven workouts and systematic progression. Elevate your lifting journey with LiftTrack Pro!
+Week 8: Progress
+-Created logo
+-General Idea of app
+-Figma designs
